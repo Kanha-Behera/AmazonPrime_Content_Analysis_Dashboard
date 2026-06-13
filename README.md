@@ -46,3 +46,5 @@ Data Visualization
 
 Dashboard Preview 
 <img width="886" height="502" alt="Amazon_prime_dashboard" src="https://github.com/user-attachments/assets/383de62a-1eeb-4180-8958-9ecf75aa8a2f" />
+
+Dataset Link : https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
